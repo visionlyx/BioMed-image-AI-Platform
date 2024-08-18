@@ -3,8 +3,9 @@
 
 # 模型训练模块
 
+
 <div align=center>
- <img src="images/model training.jpg">
+ <img src="images/model_training.jpg">
 </div>
 
 训练模块的操作流程如下所述：
@@ -21,8 +22,9 @@
 
 # 模型预测模块
 
+
 <div align=center>
- <img src="images/model testing.jpg">
+ <img src="images/model_testing.jpg">
 </div>
 
 预测模块的操作流程如下所述：
